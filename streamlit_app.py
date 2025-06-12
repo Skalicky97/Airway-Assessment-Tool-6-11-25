@@ -56,5 +56,5 @@ st.markdown(
     f"### 📊 Risk Level: <span style='color:{risk_color}; font-weight:bold'>{risk_level}</span>",
     unsafe_allow_html=True
 )
-git push origin main
+
 
